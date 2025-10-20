@@ -25,8 +25,8 @@ Formado em Análise e Desenvolvimento pela São Paulo Tech School, sou apaixonad
   <img width="35px" style="padding-right: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />      
 </div>
 
-          
-          
-
-
-
+### 📊Estatísticas
+<div>
+  <img width="45%" style="padding-right: 5px" src="https://github-readme-stats.vercel.app/api?username=mrqzcodes&show_icons=true&theme=tokyonight&include_all_commits_true">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrqzcodes&layout=compact&theme=tokyonight&custom_title=Languages&langs_count=9">
+</div>
