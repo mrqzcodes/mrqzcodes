@@ -5,7 +5,7 @@
   </p>
   
   <img src="https://github.com/mrqzcodes/mrqzcodes/blob/main/initial-gif.gif" width="100%" />
-
+  <br>
   <p>
     <em>A vida real é fora da tela</em>
   </p>
