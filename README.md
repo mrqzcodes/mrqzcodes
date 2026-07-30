@@ -18,4 +18,19 @@
     Um cara fora da caixa que não se contenta com o comum.<br>
     Aqui você encontra um registro da minha evolução em forma de projetos e códigos
   </p>
+  <a href="https://www.linkedin.com/in/calebemarquesreboucas/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:contatocalebemarques@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+  <a href="https://instagram.com/mrqz.life">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@mrqz.world" >
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@seucanal">
+  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 </div>
