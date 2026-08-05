@@ -72,6 +72,7 @@
 -  Com 18 eu comecei a conhecer a tal bolha tech indo de cabeça pra faculdade sems saber nada de programação.
 -  Com 20 eu não fui efetivado no meu estágio e comecei a viver de bicos que não tinham nada a ver com o universo de TI.
 -  Com 21, após 1 ano e meio fora da área conquistei (graças ao bom Deus) minha vaga como juninho.
+-  De lá pra cá foram muitos aprendizados, o foco é inspirar quem sonha igual a mim. 
 -  Aqui você acompanha o lado dev de um real mano!
 -  Cada projeto representa uma etapa da minha evolução.
 
