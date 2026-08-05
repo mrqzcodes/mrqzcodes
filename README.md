@@ -58,3 +58,14 @@
 </p>
 </div>
 
+---
+
+<div>
+  <h3>🕸️About Me - For real mano</h3>
+  
+  - Formado em Análise e Desenvolvimento de Sistemas
+  - Amor viver
+  - O foco é ser inspiração pra quem  igual a mim
+  - Aqui você acompanha o lado dev de um real mano!
+  - Cada projeto é a representação da minha evolução, ou seja, cada um tem um significado!
+</div>
