@@ -60,12 +60,19 @@
 
 ---
 
-<div>
-  <h3>🕸️About Me - For real mano</h3>
-  
-  - Formado em Análise e Desenvolvimento de Sistemas
-  - Amor viver
-  - O foco é ser inspiração pra quem  igual a mim
-  - Aqui você acompanha o lado dev de um real mano!
-  - Cada projeto é a representação da minha evolução, ou seja, cada um tem um significado!
-</div>
+<h3>🕸️ About Me - For real mano</h3>
+
+
+<img
+  align="right"
+  width="300px"
+  src="https://github.com/mrqzcodes/mrqzcodes/blob/main/img-about-me.png"
+/>
+
+-  Com 18 eu comecei a conhecer a tal bolha tech indo de cabeça pra faculdade sems saber nada de programação.
+-  Com 20 eu não fui efetivado no meu estágio e comecei a viver de bicos que não tinham nada a ver com o universo de TI.
+-  Com 21, após 1 ano e meio fora da área conquistei (graças ao bom Deus) minha vaga como juninho.
+-  Aqui você acompanha o lado dev de um real mano!
+-  Cada projeto representa uma etapa da minha evolução.
+
+
