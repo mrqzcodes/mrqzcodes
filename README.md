@@ -52,6 +52,10 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/fastapi/white" width="38"/>
   &nbsp;
+  <img src="https://cdn.simpleicons.org/postgreSQL/white" width="38"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/MySQL/white" width="38"/>
+  &nbsp;
   <img src="https://cdn.simpleicons.org/docker/white" width="38"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/git/white" width="38"/>
